@@ -2,7 +2,7 @@
 //just some variable dont need to be in order for data
 $database = 'joe_products';
 $username = 'joe_blog';
-$password = 'DDjG44LKQWynTx7T';
+$password = '';
 $db_host  = 'localhost';
 
 //connect to the database this the order that need to be in
